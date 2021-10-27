@@ -36,7 +36,8 @@ response.send()
 
 examples  functions / Methods names
 
-![image-20211015143619707](C:\Users\kaka\AppData\Roaming\Typora\typora-user-images\image-20211015143619707.png)
+![image-20211015143619707](../../public/img/function.png
+)
 
 
 
