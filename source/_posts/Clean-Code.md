@@ -36,7 +36,7 @@ response.send()
 
 examples  functions / Methods names
 
-![image-20211015143619707](../src/function.png
+![image-20211015143619707](../Clean-Code/function.png
 )
 
 
